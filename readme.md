@@ -2,4 +2,4 @@
 
 ## Future
 
-- [] readme-采用markdown编写说明
+- [ ] readme-采用markdown编写说明
