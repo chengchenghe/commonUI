@@ -13,5 +13,5 @@
 
 ![roadmap][roadmap]
 
-[hcc-logo]:./img/favicon.ico
-[roadmap]:./img/flow.svg
+[hcc-logo]:./resource/img/favicon.ico
+[roadmap]:./resource/img/flow.svg
